@@ -21,3 +21,6 @@ li a {
 body{
     background-color: rgb(62, 3, 3);
 }
+img{
+    float: right;
+}
