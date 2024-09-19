@@ -4,10 +4,14 @@ ul {
     padding: 0;
 }
 
-/*li a {
+li {
+    float: left;
+}
+
+li a {
     display: block;
     color: rgb(0, 0, 0);
     text-align: center;
     padding: 14px 30px;
     text-decoration: none;
-}*/
+}
